@@ -1,0 +1,7 @@
+-   id: treon
+    name: treon
+    description: '`treon` is a command-line utility for testing jupyter notebooks.'
+    entry: treon
+    language: python
+    types: [python]
+    require_serial: false
